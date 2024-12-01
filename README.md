@@ -61,6 +61,6 @@ const filterFn = (row, columnId, filterValue) => {
         passesContainsCondition &&
         passesDoesNotContainCondition
       );
-    },
-  },
+    }
+  }
 ```
